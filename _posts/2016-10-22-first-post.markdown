@@ -24,4 +24,5 @@ print_hi('Tom')
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
+
 [jekyll-docs]: http://jekyllrb.com/docs/home
