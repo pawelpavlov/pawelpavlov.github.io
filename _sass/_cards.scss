@@ -159,7 +159,7 @@
       color: $card-link-color;
       margin-right: $card-padding;
       transition: color .3s ease;
-      text-transform: uppercase;
+      // text-transform: uppercase;
 
       &:hover { color: $card-link-color-light; }
     }
