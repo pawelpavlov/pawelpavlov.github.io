@@ -44,6 +44,13 @@ body {
   font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+ @include media-query($on-laptop) {
+    body{
+      background-image: none !important;
+      background-color: $brand-color !important;
+    }
+ }
+
 .outer{
     height: 100%;
   width: 100%;
