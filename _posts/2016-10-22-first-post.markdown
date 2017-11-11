@@ -19,7 +19,7 @@ And some code snippet in Ruby:
 def print_hi(name)
   puts "Hi, #{name}"
 end
-print_hi('Tom')
+print_hi('Pavel')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
