@@ -20,7 +20,7 @@ def print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Pavel')
-#=> prints 'Hi, Tom' to STDOUT.
+#=> prints 'Hi, Pavel' to STDOUT.
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.

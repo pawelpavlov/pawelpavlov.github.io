@@ -46,6 +46,3 @@ It will output pure JS ready for execution by the Browser/Node.js.
 
 Also we would like to have different build modes (dev/test/prod).
 <br><br>
-
-
-In the next articles I'll set up programming toolset which would allow to achieve those requirements.
